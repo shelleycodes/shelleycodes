@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Shelley! 👋
 
-<!--
-**shelleycodes/shelleycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Java Developer** | Problem Solver | Lifelong Learner
 
-Here are some ideas to get you started:
+I'm diving into the world of Java development, building projects that strengthen my skills in clean code, object-oriented programming, and simple, effective software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Enhancing my Java skills through personal projects
+- Exploring frameworks like Spring Boot
+- Growing my GitHub portfolio
+
+## 🛠️ Tech Stack
+**Languages:** Java, SQL, HTML/CSS  
+**Tools:** Git, IntelliJ IDEA, Eclipse  
+**Concepts:** OOP, REST APIs, Agile  
+
+## 🌱 Fun Fact
+When I'm not coding, you'll find me crafting content, crocheting, or chasing after my adorable pug, Talulah! 🐾
+
+---
+
+📫 **Let's Connect!**  
+[Email](mailto:shelleykdavies@gmail.com)
+
+
